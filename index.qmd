@@ -1,0 +1,65 @@
+---
+title: "What analyses would you consider?"
+format: html
+editor: source
+toc: true
+---
+
+You will be provided with a scenario in which a nonprofit organization needs to make a decision about a challenge it is facing. Consider the types of analysis (descriptive, diagnostic, predictive, prescriptive) that we discussed.
+
+Discuss these questions for the scenario:
+
+* What types of analysis would you make with the data available to you?
+* Are there any analyses you would want to make that would require additional data? What are those?
+
+## Scenario | Education
+You are a leader at a nonprofit organization focused on providing educational resources to underprivileged children. Recently, you've noticed a decline in student engagement and attendance in your after-school programs.
+
+The data you have access to includes the following:
+
+* Attendance records
+* Daily activity schedules
+* Satisfaction survey data for activities
+
+
+## Scenario | Conservation
+You are a leader at a nonprofit organization focused on environmental conservation. You are running a campaign to reduce plastic waste in local communities, but the results have been inconsistent across different regions.
+
+The data you have access to includes the following:
+
+* Community demographic and socioeconomic data
+* Community environmental data
+* Campaign activity data
+* Survey data focused on conservation practices
+
+
+## Scenario | Healthcare
+You are a leader at a nonprofit organization focused on providing healthcare services to underserved populations. Your organization is planning to launch a new mobile health clinic, but you are unsure about the best locations to deploy it. 
+
+The data you have access to includes the following:
+
+* Historical electronic health record data
+* Community demographic and socioeconomic data
+* Transportation accessibility data
+* Healthcare infrastructure data
+
+
+## Scenario | Animal Welfare
+You are a leader at a nonprofit organization focused on animal welfare. Your organization has been struggling with high rates of animal adoption returns, which is causing strain on your resources. 
+
+The data you have access to includes the following:
+
+* Historical adoption record data
+* Adoption family survey data
+* Animal behavioral observation data
+
+
+## Scenario | Disaster Relief
+You are a leader at a nonprofit organization focused on disaster relief. Your organization is preparing for the upcoming hurricane season and wants to optimize the allocation of resources such as food, water, and medical supplies. 
+
+The data you have access to includes the following:
+
+* Community resources
+* Community demographic and socioeconomic data
+* Weather forecast
+* Historical hurricane response resource allocations
