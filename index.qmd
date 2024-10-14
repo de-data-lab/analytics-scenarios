@@ -9,8 +9,18 @@ You will be provided with a scenario in which a nonprofit organization needs to 
 
 Discuss these questions for the scenario:
 
-* What types of analysis would you make with the data available to you?
-* Are there any analyses you would want to make that would require additional data? What are those?
+1. What types of analysis would you make with the data available to you?
+
+>  * Descriptive - what have we done in the past?
+>  * Diagnostic - why have we seen past results?
+>  * Predictive - what will happen in the future?
+>    * Regression - can I predict a numerical value?
+>    * Classification - can I predict the likelihood?
+>    * Clustering - can I find common groups?
+>    * Association - what goes together?
+>  * Prescriptive - how should we take action?
+  
+2. Are there any analyses you would want to make that would require additional data? What are those?
 
 ## Scenario | Education
 You are a leader at a nonprofit organization focused on providing educational resources to underprivileged children. Recently, you've noticed a decline in student engagement and attendance in your after-school programs.
